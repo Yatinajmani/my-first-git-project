@@ -1,0 +1,43 @@
+* commit 36359c4
+| Author: yatin ajmani <>
+| Date:   Tue Jul 3 22:00:13 2018 +0530
+| 
+|     layout Changed
+|   
+*   commit 3bc1514
+|\  Merge: bf12627 e45ff05
+| | Author: yatin ajmani <>
+| | Date:   Tue Jul 3 21:57:08 2018 +0530
+| | 
+| |     Merge branch 'style' into layout
+| | 
+| * commit e45ff05
+| | Author: yatin ajmani <>
+| | Date:   Tue Jul 3 21:53:29 2018 +0530
+| | 
+| |     main
+| |   
+* |   commit bf12627
+|\ \  Merge: 65ad153 66b9687
+| | | Author: yatin ajmani <>
+| | | Date:   Tue Jul 3 21:56:07 2018 +0530
+| | | 
+| | |     Merge branch 'layout' into scripts
+| | | 
+| * | commit 66b9687
+| |/  Author: yatin ajmani <>
+| |   Date:   Tue Jul 3 21:48:13 2018 +0530
+| |   
+| |       index
+| | 
+* | commit 65ad153
+|/  Author: yatin ajmani <>
+|   Date:   Tue Jul 3 21:50:16 2018 +0530
+|   
+|       script
+| 
+* commit 1e202e9
+  Author: yatin ajmani <>
+  Date:   Tue Jul 3 21:45:20 2018 +0530
+  
+      first commit
